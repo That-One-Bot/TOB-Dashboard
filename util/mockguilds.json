@@ -1,0 +1,80 @@
+[
+  {
+    "guildId": "1",
+    "guildName": "TOB's Test Server",
+    "guildIcon": "none",
+    "guildOwner": "401844809385508903",
+    "members": 2,
+    "commands": [],
+    "customCommands": [],
+    "guildConfig": {
+      "prefix": "!",
+      "welcomeChannel": ""
+    }
+  },
+  {
+    "guildId": "2",
+    "guildName": "Modpack",
+    "guildIcon": "none",
+    "guildOwner": "401844809385508903",
+    "members": 6,
+    "commands": [],
+    "customCommands": [],
+    "guildConfig": {
+        "prefix": ".",
+        "welcomeChannel": "870000065815670787"
+    }
+  },
+  {
+    "guildId": "3",
+    "guildName": "Modpack",
+    "guildIcon": "none",
+    "guildOwner": "401844809385508903",
+    "members": 6,
+    "commands": [],
+    "customCommands": [],
+    "guildConfig": {
+        "prefix": ".",
+        "welcomeChannel": "870000065815670787"
+    }
+  },
+  {
+    "guildId": "4",
+    "guildName": "Modpack",
+    "guildIcon": "none",
+    "guildOwner": "401844809385508903",
+    "members": 6,
+    "commands": [],
+    "customCommands": [],
+    "guildConfig": {
+        "prefix": ".",
+        "welcomeChannel": "870000065815670787"
+    }
+  },
+  {
+    "guildId": "5",
+    "guildName": "Modpack",
+    "guildIcon": "none",
+    "guildOwner": "401844809385508903",
+    "members": 6,
+    "commands": [],
+    "customCommands": [],
+    "guildConfig": {
+        "prefix": ".",
+        "welcomeChannel": "870000065815670787"
+    }
+  },
+  {
+    "guildId": "6",
+    "guildName": "Modpack",
+    "guildIcon": "none",
+    "guildOwner": "401844809385508903",
+    "members": 6,
+    "commands": [],
+    "customCommands": [],
+    "guildConfig": {
+        "prefix": ".",
+        "welcomeChannel": "870000065815670787"
+    }
+  }
+]

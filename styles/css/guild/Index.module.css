@@ -1,0 +1,6 @@
+.container {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  height: 100%;
+  overflow-y: scroll;
+}
